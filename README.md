@@ -1,4 +1,4 @@
-## Basic-React-App
+## Basic-react-app
 
 Output:
 
