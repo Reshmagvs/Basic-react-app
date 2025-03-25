@@ -1,4 +1,9 @@
 ## Basic-React-App
+
+Output:
+
+![Alt Text](https://github.com/Reshmagvs/Basic-react-app/blob/main/react_ap.png)
+
 1. Create a React app using these commands in VS Code terminal :
 
 ```
